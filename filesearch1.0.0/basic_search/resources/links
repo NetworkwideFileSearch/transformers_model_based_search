@@ -1,0 +1,37 @@
+https://docs.oracle.com/javase/tutorial/essential/io/notification.html
+
+https://www.baeldung.com/linux/run-java-application-as-service
+
+https://www.quora.com/How-do-I-get-IP-Address-of-all-computers-in-a-network-using-java
+
+https://odsc.medium.com/getting-started-with-vector-based-search-23c22da43266
+
+types of vectorization models:
+https://neptune.ai/blog/vectorization-techniques-in-nlp-guide
+
+Using PostgreSQL as NoSQL Database with PostGIS to Store Vector Data in One Table
+https://youtu.be/aTN_7STkP5I
+
+All you need to know about Google Vertex AI Matching Engine
+    Putting a similarity index into production at scale is a pretty hard challenge. It requires a whole bunch of infrastructure working closely together. You need to handle a large amount of data at low latency. It introduces you to topics like sharding, hashing, trees, load balancing, efficient data transfer, data replication, and much more.
+https://medium.com/google-cloud/all-you-need-to-know-about-google-vertex-ai-matching-engine-3344e85ad565
+
+
+How to Build a Semantic Search Engine With Transformers and Faiss
+https://towardsdatascience.com/how-to-build-a-semantic-search-engine-with-transformers-and-faiss-dcbea307a0e8
+
+kmeans clustering with cosine similarity
+https://medium.com/ai-for-real/relationship-between-cosine-similarity-and-euclidean-distance-7e283a277dff
+
+
+How to cluster similar sentences using BERT 
+https://stackoverflow.com/questions/55619176/how-to-cluster-similar-sentences-using-bert
+
+indexing of vector database (VIMP)
+https://www.pinecone.io/learn/vector-indexes/
+
+A Comparison of Document Clustering Techniques
+https://www.stat.cmu.edu/~rnugent/PCMI2016/papers/DocClusterComparison.pdf
+
+sklearn.base: Base classes and utility functions¶
+https://scikit-learn.org/stable/modules/classes.html#module-sklearn.cluster
